@@ -476,3 +476,18 @@ redis.conf
 project.lock.json
 project.fragment.lock.json
 artifacts/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+**/Dockerfile*
+**/docker-compose*
+
+# Deployment
+.deploy/
+.deploy/*
+
+# Environment files
+.env
+.env.*.local
