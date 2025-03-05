@@ -31,3 +31,6 @@ jobs:
 
       - name: Run tests
         run: dotnet test backend/QuizWhizAPI.sln --no-build --configuration Release
+
+      - name: Run .NET Code Style Checks
+        run: dotnet format backend/QuizWhizAPI.sln --verify-no-changes

@@ -1,0 +1,6 @@
+﻿Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizWhizAPI", "QuizWhizAPI\QuizWhizAPI.csproj", "{C3D975BC-BE3D-4DA0-B085-F0F5B395379A}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+EndGlobal
